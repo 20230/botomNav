@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bottom nav</string>
+    <string name="share">分享</string>
+    <string name="collect">收藏</string>
+    <string name="edit">编辑</string>
+    <string name="del">删除</string>
+</resources>
